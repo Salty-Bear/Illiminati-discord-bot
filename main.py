@@ -232,4 +232,4 @@ async def kick(ctx,user:discord.Member, *,reason="no reason"):
 
 
 
-client.run('MTAzMzYwOTYyOTQzNzAxODE0NA.GY8l8E.TOgDOsObUmUkyJwqP63mvn9BVrUBroJ0eDMO_8')
+client.run('**your tokken**')
